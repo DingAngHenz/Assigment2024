@@ -1,6 +1,6 @@
-pip install streamlit
-pip install folim
-pip install streamlit_folium
+!pip install streamlit
+!pip install folim
+!pip install streamlit_folium
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
